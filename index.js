@@ -1,14 +1,14 @@
 const jsonfile = require('jsonfile');
 const simpleGit = require('simple-git');
-const randomInt = require('./random.js').randomInt;
+const random = require('random');
 
 const FILE_PATH = './data.json';
 
 const makeCommit = n => {
     if(n===0) return simpleGit().push();
 
-    const x= randomInt(0,54);
-    const y= randomInt(0,6);
+    const x= random.int(0,54);
+    const y= random.int(0,6);
 
     const DATE = new Date();
     
