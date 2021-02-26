@@ -15,10 +15,9 @@
     "url": "https://github.com/SatYu26/Github-Contribution-Hack/issues"
   },
   "homepage": "https://github.com/SatYu26/Github-Contribution-Hack#readme",
-  "description": "",
+  "description": "This Repo contains the Program for the Hack of GitHub Contribution Graph.",
   "dependencies": {
     "jsonfile": "^6.1.0",
-    "moment": "^2.27.0",
     "simple-git": "^2.35.2"
   }
 }

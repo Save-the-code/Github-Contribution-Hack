@@ -36,7 +36,7 @@ const makeCommit = (n) => {
     simpleGit()
       .add([FILE_PATH])
       .commit(
-        DATE,
+        DATE.toISOString(),
         { "--date": DATE.toISOString() },
         makeCommit.bind(this, --n)
       );

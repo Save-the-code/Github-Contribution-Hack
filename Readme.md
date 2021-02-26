@@ -34,6 +34,4 @@ node index.js
 ```
 npm i jsonfile
 npm i simple-git
-<!-- npm i moment
-npm i random -->
 ```
