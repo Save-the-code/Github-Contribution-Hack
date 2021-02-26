@@ -17,9 +17,8 @@
   "homepage": "https://github.com/SatYu26/Github-Contribution-Hack#readme",
   "description": "",
   "dependencies": {
-    "jsonfile": "^6.0.1",
+    "jsonfile": "^6.1.0",
     "moment": "^2.27.0",
-    "random": "^2.2.0",
-    "simple-git": "^2.15.0"
+    "simple-git": "^2.35.2"
   }
 }
