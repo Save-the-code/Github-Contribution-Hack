@@ -18,7 +18,6 @@
   "description": "",
   "dependencies": {
     "jsonfile": "^6.0.1",
-    "moment": "^2.27.0",
     "simple-git": "^2.15.0"
   }
 }
